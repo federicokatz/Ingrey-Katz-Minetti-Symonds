@@ -91,7 +91,6 @@ Una vez finalizada la iteración, tuvimos una revisión donde analizamos el back
 
 En cuanto al registro de horas trabajadas, utilizamos Clockify para determinar cuánto tiempo nos llevó realizar cada tarea, quedando de la siguiente manera:
 
-Christian Ingrey:
 
 Federico Katz:
 
