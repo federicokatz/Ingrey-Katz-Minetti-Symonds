@@ -71,12 +71,15 @@ En cuanto al registro de horas trabajadas, utilizamos Clockify para determinar c
 Christian Ingrey:
 
 Federico Katz:
+
 ![Federico Katz Clockify](Images/Katz%20Clockify.png)
 
 Gastón Minetti:
+
 ![Gaston Clockify](Images/Gaston%20Clockify.png)
 
 Emily Symonds: 
+
 ![Emily Clockify](Images/Emily%20Clockify.jpeg)
 ![Emily Clockify 2](Images/Emily%20Clockify%202.jpeg)
 
