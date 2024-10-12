@@ -62,15 +62,23 @@ En dicha reunión, se trataron los siguientes temas:
 
 Luego, planificamos para tener otra daily, donde el trabajo que había realizado cada integrante fue el siguiente:
 
+![Tercera Foto de WhatsApp](Images/Third%20Wpp%20Image.png)
+
 Una vez finalizada la iteración, tuvimos una revisión donde analizamos el backlog generado, y llegamos a la conclusión de que todos nos encontrábamos conformes con el trabajo realizado.
 
 En cuanto al registro de horas trabajadas, utilizamos Clockify para determinar cuánto tiempo nos llevó realizar cada tarea, quedando de la siguiente manera:
+
+Christian Ingrey:
 
 Federico Katz:
 ![Federico Katz Clockify](Images/Katz%20Clockify.png)
 
 Gastón Minetti:
 ![Gaston Clockify](Images/Gaston%20Clockify.png)
+
+Emily Symonds: 
+![Emily Clockify](Images/Emily%20Clockify.jpeg)
+![Emily Clockify 2](Images/Emily%20Clockify%202.jpeg)
 
 ## IDENTIFICACIÓN DEL PROBLEMA A RESOLVER
 
@@ -903,4 +911,12 @@ A cada historia, le asignamos una prioridad entre 1 y 4, siendo 1 la mayor prior
 
 ### Story Map
 
+
+Basándonos en el orden de prioridad definido para en el product backlog, pudimos desarrollar el story map. Dentro de cada épica, agrupamos las historias según su temática, y bajo cada una de ellas se ordenaron las historias de usuario de acuerdo a su prioridad. Además, si observamos el mapa horizontalmente, podemos ver que cada historia de usuario sigue un flujo de trabajo lógico, tal como lo imaginamos en el proceso.
+
 ![Full Story Map](Images/Full%20Story%20Map.png)
+![Gestion de cuentas de usuario](Images/User%20Management.jpeg)
+![Gestion de reservas](Images/Reservation%20Management.jpeg)
+![Interaccion con restaurantes](Images/RestaurantInteraction.jpeg)
+![Notificaciones](Images/Notification.jpeg)
+![Administracion de la plataforma](Images/Platform%20Management.jpeg)
