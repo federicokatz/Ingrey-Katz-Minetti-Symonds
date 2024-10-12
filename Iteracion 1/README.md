@@ -106,6 +106,10 @@ Emily Symonds:
 ![Emily Clockify](Images/Emily%20Clockify.jpeg)
 ![Emily Clockify 2](Images/Emily%20Clockify%202.jpeg)
 
+Christian Ingrey:
+
+![Christian Clockify](Images/Christian%20Clockify.jpeg)
+
 ## IDENTIFICACIÓN DEL PROBLEMA A RESOLVER
 
 #### Funcionalidades por interesado:
