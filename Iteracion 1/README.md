@@ -1,5 +1,28 @@
 # Ingrey-Katz-Minetti-Symonds
 
+## Índice
+
+1. [Gestión de la iteración](#gestión-de-la-iteración)
+    - [Definición del Marco de Trabajo](#definición-del-marco-de-trabajo-scrum)
+    - [Roles de equipo y responsabilidades](#roles-del-equipo-y-responsabilidades)
+    - [Definition of ready (DoR)](#definition-of-ready-dor)
+    - [Definition of done (DoD)](#definition-of-done-dod)
+
+2. [Identificación del problema a resolver](#identificación-del-problema-a-resolver)
+    - [Funcionalidades por interesado](#funcionalidades-por-interesado)
+    - [Estudio de competidores](#estudio-de-competidores)
+    - [Identificación de interesados](#identificación-de-interesados)
+
+3. [Definición del problema/solución](#definición-del-problemasolución)
+    - [User stories](#user-stories)
+    - [Épicas](#gestión-de-cuentas-de-usuario)
+    - [Story map](#story-map)
+
+
+
+
+
+
 
 # GESTIÓN DE LA ITERACIÓN
 
