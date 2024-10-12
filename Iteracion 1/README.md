@@ -266,9 +266,9 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 
 ## DEFINICIÓN DEL PROBLEMA/SOLUCIÓN
 
-### User Stories 
+## User Stories 
 
-#### Historia de Usuario 1: Login del sistema
+### Historia de Usuario 1: Login del sistema
 
 **Título:** Registro de un nuevo usuario
 
@@ -295,7 +295,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** debería poder acceder a mi perfil en la aplicación.
 
 
-#### Historia de Usuario 2: Recuperar contraseña
+### Historia de Usuario 2: Recuperar contraseña
 
 **Título:** Recuperar contraseña
 
@@ -334,7 +334,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería ver un mensaje de error indicando que la dirección de correo electrónico no está asociada a ninguna cuenta.
 
 
-#### Historia de Usuario 3: Logout del sistema
+### Historia de Usuario 3: Logout del sistema
 **Título:** Cerrar sesión
 
 **Narrativa:**
@@ -352,7 +352,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** debería estar desconectado del sistema.
 
 
-#### Historia de Usuario 4: Edición de perfil
+### Historia de Usuario 4: Edición de perfil
 
 **Título:** Editar perfil de usuario
 
@@ -373,7 +373,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** debería ver la información actualizada en mi perfil.
 
 
-#### Historia de Usuario 5: Realizar una reserva en un restaurante
+### Historia de Usuario 5: Realizar una reserva en un restaurante
 
 **Título:** Realización de reserva en un restaurante
 
@@ -402,7 +402,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** debería poder seleccionar otra fecha u hora disponible.
 
 
-#### Historia de Usuario 6: Registrar restaurantes favoritos por zona
+### Historia de Usuario 6: Registrar restaurantes favoritos por zona
 
 **Título:** Agregar restaurantes favoritos
 
@@ -422,7 +422,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** el restaurante debería aparecer en mi lista de favoritos en mi perfil.
 
 
-#### Historia de Usuario 7: Configuración de notificaciones de promociones
+### Historia de Usuario 7: Configuración de notificaciones de promociones
 
 **Título:** Configuración de promociones
 
@@ -440,7 +440,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería poder activar o desactivar las notificaciones de promociones para cada restaurante favorito.
 
 
-#### Historia de Usuario 8: Notificaciones de promociones
+### Historia de Usuario 8: Notificaciones de promociones
 
 **Título:** Notificaciones de promociones
 
@@ -457,7 +457,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Cuando** una promoción es lanzada por el restaurante
 - **Entonces** debería recibir una notificación con los detalles de la promoción.
 
-#### Historia de Usuario 9: Notificaciones de reservas
+### Historia de Usuario 9: Notificaciones de reservas
 
 **Título:** Notificaciones de reservas
 
@@ -485,7 +485,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería recibir una notificación de cancelación, con una explicación y, si es posible, opciones para realizar una nueva reserva.
 
 
-#### Historia de Usuario 10: Visualización de status de una reserva
+### Historia de Usuario 10: Visualización de status de una reserva
 
 **Título:** Visualización de estatus de una reserva
 
@@ -519,7 +519,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería ver el estatus de la reserva como "Modificada", junto con los detalles actualizados (ejemplo: nueva hora) y una explicación del cambio.
 
 
-#### Historia de Usuario 11: Notificaciones de recomendaciones del día
+### Historia de Usuario 11: Notificaciones de recomendaciones del día
 
 **Título:** Notificaciones de recomendaciones del día
 
@@ -535,7 +535,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Cuando** se genera una recomendación personalizada
 - **Entonces** debería recibir una notificación con el restaurante o plato recomendado.
 
-#### Historia de Usuario 12: Visualización de perfil de usuario
+### Historia de Usuario 12: Visualización de perfil de usuario
 
 **Título:** Visualización del perfil de usuario
 
@@ -552,7 +552,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería poder ver mi nombre de usuario, avatar, lista de restaurantes favoritos, recomendaciones realizadas e historial de visitas.
 
 
-#### Historia de Usuario 13: Cancelación de una reserva
+### Historia de Usuario 13: Cancelación de una reserva
 
 **Título:** Cancelación de una reserva
 
@@ -579,7 +579,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 
 
 
-#### Historia de Usuario 14: Visualización de restaurantes disponibles
+### Historia de Usuario 14: Visualización de restaurantes disponibles
 
 **Título:** Visualización de restaurantes por zona y valoración
 
@@ -624,7 +624,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** cada restaurante debería mostrar información básica como el nombre, valoración, rango de precios, y el tipo de comida seleccionado.
 
 
-#### Historia de Usuario 15: Visualizar puntuación y comentarios de restaurantes
+### Historia de Usuario 15: Visualizar puntuación y comentarios de restaurantes
 **Título:** Ver puntuaciones y comentarios de restaurantes
 
 **Narrativa:**
@@ -639,7 +639,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Cuando** accedo a la página de un restaurante
 - **Entonces** debería poder ver las valoraciones y comentarios de otros usuarios.
 
-#### Historia de Usuario 16: Confirmación reserva por parte del gerenciador
+### Historia de Usuario 16: Confirmación reserva por parte del gerenciador
 
 **Título:** Confirmar reserva por parte del gerente
 
@@ -660,7 +660,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** cuando haga clic en el botón de "Confirmar reserva", el estado de la reserva debería actualizarse a "Confirmada".
 
 
-#### Historia de Usuario 17: Cancelación reserva por parte del gerenciador
+### Historia de Usuario 17: Cancelación reserva por parte del gerenciador
 **Título:** Cancelación de reserva por parte del gerente
 
 **Narrativa:**
@@ -676,7 +676,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Cuando** selecciono la reserva que deseo cancelar y hago clic en el botón de "Cancelar reserva".
 - **Entonces** debería poder proporcionar una razón para la cancelación (ejemplo: cierre del restaurante, evento privado).
 
-#### Historia de Usuario 18: Modificación de horarios disponibles
+### Historia de Usuario 18: Modificación de horarios disponibles
 **Título:** Modificación de horarios disponibles del restaurante
 
 **Narrativa:**
@@ -693,7 +693,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería poder ver los horarios actuales de apertura y cierre.
 
 
-#### Historia de Usuario 19: Modificación de tipos de comida
+### Historia de Usuario 19: Modificación de tipos de comida
 **Título:** Modificación de tipos de comida del restaurante
 
 **Narrativa:**
@@ -710,7 +710,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería ver una lista editable con los tipos de comida actuales (por ejemplo, italiana, mexicana, vegetariana).
 
 
-#### Historia de Usuario 20: Apelación de puntuación o comentario
+### Historia de Usuario 20: Apelación de puntuación o comentario
 
 **Título:** Apelación de una puntuación o comentario en el restaurante
 
@@ -729,7 +729,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Y** cuando seleccione "Apelar", debería aparecer un formulario donde puedo proporcionar una explicación detallada del motivo de la apelación.
 
 
-#### Historia de Usuario 21: Notificaciones de reservas solicitadas
+### Historia de Usuario 21: Notificaciones de reservas solicitadas
 **Título:** Recibir notificaciones de reserva solicitada para el restaurante que gerencio
 
 **Narrativa:**
@@ -745,7 +745,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Cuando** la reserva es solicitada.
 - **Entonces** debería recibir una notificación que incluya los detalles de la reserva solicitada, como la fecha, la hora, el número de personas, y el nombre del cliente.
 
-#### Historia de Usuario 22: Creación de promociones
+### Historia de Usuario 22: Creación de promociones
 
 **Título:** Creación de promociones para los restaurantes
 
@@ -766,7 +766,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
     - Restricciones o condiciones (ejemplo: "Válido solo para clientes que reserven a través de la app").
 
 
-#### Historia de Usuario 23: Dar de alta de restaurantes
+### Historia de Usuario 23: Dar de alta de restaurantes
 **Título:** Alta de restaurantes en la plataforma
 
 **Narrativa:**
@@ -798,7 +798,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería poder modificar la dirección, el tipo de comida, o los horarios.
 - **Y** al guardar los cambios, la información actualizada debería ser visible para los clientes en la plataforma.
 
-#### Historia de Usuario 24: Dar de alta a gerenciadores por restaurante
+### Historia de Usuario 24: Dar de alta a gerenciadores por restaurante
 **Título:** Dar de alta a gerentes por restaurante
 
 **Narrativa:**
@@ -823,7 +823,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería ver un mensaje de error indicando que el correo electrónico ya está en uso, y no debería permitirme completar la asignación hasta que se utilice un correo válido y único.
 
 
-#### Historia de Usuario 25: Modificación de gerenciadores por restaurante
+### Historia de Usuario 25: Modificación de gerenciadores por restaurante
 **Título:** Modificación de gerentes por restaurante
 
 **Narrativa:**
@@ -840,7 +840,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 - **Entonces** debería poder editar los datos del gerente.
 
 
-#### Historia de Usuario 26: Indicación de restaurantes disponibles
+### Historia de Usuario 26: Indicación de restaurantes disponibles
 **Título:** Indicar restaurantes disponibles para reservas
 
 **Narrativa:**
@@ -858,7 +858,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 
 
 
-#### Historia de Usuario 27: Administración de puntuación y comentarios
+### Historia de Usuario 27: Administración de puntuación y comentarios
 **Título:** Administración de comentarios y puntuaciones de restaurantes
 
 **Narrativa:**
@@ -883,7 +883,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 
 
 
-### Épicas
+## Épicas
 
 #### Gestión de cuentas de usuario
 - **Descripción:** Incluye todas las funcionalidades relacionadas con el registro, inicio de sesión, edición de perfil y cierre de sesión de los usuarios.
