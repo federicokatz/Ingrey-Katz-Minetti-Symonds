@@ -933,7 +933,7 @@ Son los encargados de gestionar la aplicación y supervisar el buen funcionamien
 
 Una vez priorizadas, las user stories quedaron organizadas de la siguiente manera: 
 
-![Product Backlog](images/Product%20Backlog.png)
+![Product Backlog](Images/Product%20Backlog.png)
 
 A cada historia, le asignamos una prioridad entre 1 y 4, siendo 1 la mayor prioridad. Realizamos la priorización en función del valor que determinamos que le aportan las funcionalidades al usuario final.
 
