@@ -198,6 +198,21 @@ El criterio en esta entrega, se baso en la disponibilidad de cada uno de los int
 
 ### Tecnicas de priorización y estimación
 
+Para esta iteración, se emplearon técnicas de priorización que nos ayudaron a definir el orden de trabajo de las historias de usuario con el mayor impacto en el MVP. Las técnicas seleccionadas fueron:
+
+Las historias de usuario se clasificaron de acuerdo con su valor para el usuario (impacto en la aplicación) y el esfuerzo estimado de desarrollo. Las historias que representaban alto valor y bajo esfuerzo recibieron la prioridad más alta, mientras que las de bajo valor y alto esfuerzo se postergaron para futuras iteraciones.
+
+MoSCoW (Must have, Should have, Could have, Won’t have): Se utilizó esta técnica para dividir las historias de usuario en cuatro categorías:
+
+- Must have: Historias esenciales para el MVP, que se seleccionaron como primera prioridad en el Sprint Backlog.
+- Should have: Historias importantes, pero que podrían dejarse fuera si el tiempo no alcanzaba.
+- Could have: Historias deseables, pero no imprescindibles, que se tomarán en cuenta en iteraciones posteriores.
+- Won’t have (this time): Funcionalidades que no fueron consideradas para esta iteración, pero podrían implementarse en el futuro.
+
+Esta combinación de técnicas nos permitió priorizar eficientemente las historias más relevantes, centrándonos en los elementos críticos para avanzar en el desarrollo del MVP.
+
+Por otro lado, los puntos de historia se usaron para asignar un valor relativo de esfuerzo a cada tarea, sin relacionarlos directamente con horas específicas. Esto nos permitió establecer comparaciones y balancear la carga de trabajo en función de la capacidad del equipo. Las tareas más complejas recibieron una puntuación más alta, indicando su mayor complejidad y tiempo de desarrollo.
+
 ### Metricas relevantes
 
 
