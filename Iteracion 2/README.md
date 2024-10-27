@@ -65,6 +65,132 @@ Cabe aclarar que se reservo un tiempo de revision de avance, para asi poder obte
 - Asegurar que los prototipos sigan una linea visual y estetica cosistente.
 
 ### Sprint backlog
+Para esta iteración, se han priorizado historias de usuario enfocadas en el flujo de autenticación, reserva y administración de restaurantes. Estas historias y tareas permitirán ofrecer una experiencia de usuario robusta y simplificar la administración para los gerentes de los restaurantes. A continuación se detalla el Sprint Backlog con las historias de usuario seleccionadas y sus tareas específicas asociadas para facilitar la implementación y cumplir con los criterios de aceptación.
+
+Historia de Usuario 23: Dar de alta de restaurantes
+
+- Tareas:
+Crear una interfaz en "Administrar Restaurantes" para agregar un nuevo restaurante.
+Implementar formulario para ingresar nombre, dirección, tipo de comida y horarios de apertura y cierre.
+Validar datos obligatorios y formatos correctos para cada campo (ej. dirección, tipo de comida).
+Configurar mensajes de error para entradas incompletas o incorrectas.
+Habilitar opción de edición para modificar la información de un restaurante después de ser registrado.
+Realizar pruebas de alta y edición de restaurantes.
+Documentar el proceso de alta y validación de datos.
+
+Realizada por Christian Ingrey
+
+Historia de Usuario 24: Dar de alta a gerenciadores por restaurante
+
+- Tareas:
+Diseñar interfaz para asignar o agregar gerentes a restaurantes en "Administrar Restaurantes".
+Crear formulario para registrar nombre completo, correo electrónico y restaurante asignado.
+Configurar validación para evitar correos electrónicos duplicados y asegurar unicidad del gerente.
+Mostrar mensajes de error en caso de intentar asignar un correo ya registrado en la plataforma.
+Realizar pruebas de asignación de gerente y validación de errores de duplicidad.
+Documentar el flujo de alta de gerentes y gestión de errores.
+
+Realizada por Christian Ingrey
+
+Historia de Usuario 1: Login del sistema
+
+- Tareas:
+Implementar formulario de registro con campos para correo electrónico, nombre de usuario y contraseña.
+Integrar autenticación con Google.
+Configurar el envío de correos de confirmación para el registro por correo electrónico.
+Crear validaciones para los datos de registro.
+Realizar pruebas de registro y validación de cuenta.
+Documentar flujo de registro y autenticación.
+
+Realizada por Federico Katz
+
+Historia de Usuario 3: Logout del sistema
+
+- Tareas:
+Crear funcionalidad para cerrar sesión del usuario.
+Redirigir a la pantalla de inicio de sesión al cerrar sesión.
+Realizar pruebas de cierre de sesión para verificar el flujo completo.
+Documentar proceso de cierre de sesión y seguridad de datos.
+
+Realizada por Christina Ingrey
+
+Historia de Usuario 5: Realizar una reserva en un restaurante
+
+- Tareas:
+Diseñar interfaz para seleccionar restaurante, fecha, hora y número de personas.
+Implementar lógica para procesar la reserva y asignar mesa disponible.
+Configurar notificación de confirmación de reserva para el usuario.
+Validar disponibilidad en tiempo real para evitar reservas duplicadas.
+Realizar pruebas de reserva y confirmación.
+Documentar proceso de reserva y gestión de disponibilidad.
+
+Realizada por Federico Katz
+
+Historia de Usuario 13: Cancelación de una reserva
+
+- Tareas:
+Implementar funcionalidad de cancelación de reservas en la sección de perfil.
+Configurar mensajes de confirmación de cancelación y política de cancelación.
+Crear validación para mostrar restricciones de cancelación (por ejemplo, límite de 24 horas).
+Realizar pruebas de cancelación y gestión de mensajes de error.
+Documentar el flujo de cancelación y política de restaurante.
+
+Realizada por Emily Symonds
+
+Historia de Usuario 14: Visualización de restaurantes disponibles
+
+- Tareas:
+Diseñar interfaz para buscar restaurantes por zona y ver valoración y precios.
+Implementar opción de visualización en lista y mapa interactivo.
+Configurar filtros de búsqueda por zona y ordenamiento por valoración.
+Realizar pruebas de visualización y usabilidad.
+Documentar proceso de búsqueda y visualización de restaurantes.
+
+Realizada por Federico Katz
+
+Historia de Usuario 16: Confirmación de reserva por parte del gerente
+
+- Tareas:
+Implementar notificación de nuevas reservas en la vista del gerente.
+Crear sección para que el gerente pueda revisar y confirmar reservas.
+Diseñar interfaz para mostrar detalles de la reserva (fecha, hora, personas).
+Actualizar estado de la reserva a "Confirmada" al finalizar la acción.
+Realizar pruebas de confirmación y actualización de estado.
+Documentar flujo de confirmación de reservas por el gerente.
+
+Realizada por Emily Symonds
+
+Historia de Usuario 17: Cancelación de reserva por parte del gerente
+
+- Tareas:
+Configurar opción de cancelación de reservas en la vista del gerente.
+Implementar campo para que el gerente proporcione una razón para la cancelación.
+Realizar pruebas de cancelación y visualización de motivos de cancelación.
+Documentar flujo de cancelación de reservas por el gerente.
+
+Realizada por Emily Symonds.
+
+Historia de Usuario 18: Modificación de horarios disponibles
+
+- Tareas:
+Crear interfaz en "Administrar Restaurante" para modificar horarios de apertura y cierre.
+Validar la entrada de horarios y manejar errores en el formato.
+Actualizar la información de horarios en la plataforma en tiempo real.
+Realizar pruebas de actualización y visualización de horarios.
+Documentar el flujo de actualización de horarios.
+
+Realizada por Gaston Minetti.
+
+Historia de Usuario 19: Modificación de tipos de comida
+
+- Tareas:
+Crear interfaz en "Administrar Restaurante" para editar tipos de comida ofrecidos.
+Configurar lista editable para los tipos de comida y validar las entradas.
+Actualizar el perfil del restaurante en tiempo real con la nueva información.
+Realizar pruebas de modificación de menú y actualización de vista de usuario.
+Documentar el proceso de actualización de tipos de comida.
+
+Realizada por Gaston Minetti.
 
 ### Planificación de equipo
 
