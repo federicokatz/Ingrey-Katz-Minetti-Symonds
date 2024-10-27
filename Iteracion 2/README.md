@@ -214,7 +214,17 @@ Esta combinación de técnicas nos permitió priorizar eficientemente las histor
 Por otro lado, los puntos de historia se usaron para asignar un valor relativo de esfuerzo a cada tarea, sin relacionarlos directamente con horas específicas. Esto nos permitió establecer comparaciones y balancear la carga de trabajo en función de la capacidad del equipo. Las tareas más complejas recibieron una puntuación más alta, indicando su mayor complejidad y tiempo de desarrollo.
 
 ### Metricas relevantes
+1. Velocidad del Equipo
+    
+    La velocidad se calculó con base en los puntos de historia completados en sprints anteriores, estimando entre 20 y 25 puntos en una iteración de dos semanas. Esto ayudó a ajustar el Sprint Backlog, asegurando que las tareas se alinearan con la capacidad real del equipo sin sobrecargarlo.
 
+2. Productividad del Equipo
+
+    La productividad se midió comparando tareas completadas vs. planeadas, permitiendo ajustes semanales en el backlog. Si algún retraso afectaba la productividad, se revaluaban las prioridades para mantener el enfoque en los objetivos principales del sprint.
+
+3. Resultados y Lecciones Aprendidas
+
+    Estas métricas permitieron planificar de forma más precisa y ajustar el trabajo en tiempo real, asegurando un avance constante en el MVP. Para futuras iteraciones, se implementarán revisiones de velocidad y gráficos de avance semanal (burndown charts) para mejorar la eficiencia en el control del progreso del sprint.
 
 ## Seguimiento de la iteración
 ![Clockify Gaston Minetti](<Images/Clockify Gaston Minetti.png>)
