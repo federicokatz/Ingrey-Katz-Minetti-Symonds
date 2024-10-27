@@ -53,7 +53,6 @@ Antes de comenzar la iteracion, el equipo se reunió para revisar el Product Bac
 
 ![Planning](<Images/planning.png>)
 
-
 ### Resumen del sprint planning
 En el sprint planning se reviso el product backlog, con un foco en identificar y seleccionar las user stories que aportan mayor valor a los objetivos del MVP de la aplicación. 
 
@@ -71,28 +70,18 @@ Cabe aclarar que se reservo un tiempo de revision de avance, para asi poder obte
 ### Sprint backlog
 Para esta iteración, se han priorizado historias de usuario enfocadas en el flujo de autenticación, reserva y administración de restaurantes. Estas historias y tareas permitirán ofrecer una experiencia de usuario robusta y simplificar la administración para los gerentes de los restaurantes. A continuación se detalla el Sprint Backlog con las historias de usuario seleccionadas y sus tareas específicas asociadas para facilitar la implementación y cumplir con los criterios de aceptación.
 
-Historia de Usuario 23: Dar de alta de restaurantes
+Historia de Usuario 12: Visualizar perfil
 
 - Tareas:
-Crear una interfaz en "Administrar Restaurantes" para agregar un nuevo restaurante.
-Implementar formulario para ingresar nombre, dirección, tipo de comida y horarios de apertura y cierre.
-Validar datos obligatorios y formatos correctos para cada campo (ej. dirección, tipo de comida).
-Configurar mensajes de error para entradas incompletas o incorrectas.
-Habilitar opción de edición para modificar la información de un restaurante después de ser registrado.
-Realizar pruebas de alta y edición de restaurantes.
-Documentar el proceso de alta y validación de datos.
+Crear una interfaz para que un usuario visualize su perfil, una vez que se encuentre logueado en la aplicación.
 
 Realizada por Christian Ingrey
 
-Historia de Usuario 24: Dar de alta a gerenciadores por restaurante
+Historia de Usuario 2: Recuperar contraseña
 
 - Tareas:
-Diseñar interfaz para asignar o agregar gerentes a restaurantes en "Administrar Restaurantes".
-Crear formulario para registrar nombre completo, correo electrónico y restaurante asignado.
-Configurar validación para evitar correos electrónicos duplicados y asegurar unicidad del gerente.
-Mostrar mensajes de error en caso de intentar asignar un correo ya registrado en la plataforma.
-Realizar pruebas de asignación de gerente y validación de errores de duplicidad.
-Documentar el flujo de alta de gerentes y gestión de errores.
+Diseñar interfaz para que un usuario recupere su contraseña en caso de que la haya olvidado, que debe ser accesible desde la sección para iniciar sesión.
+Crear formulario para ingresar el email.
 
 Realizada por Christian Ingrey
 
@@ -220,7 +209,7 @@ Por otro lado, los puntos de historia se usaron para asignar un valor relativo d
 ### Metricas relevantes
 1. Velocidad del Equipo
     
-    La velocidad se calculó con base en los puntos de historia completados en sprints anteriores, estimando entre 20 y 25 puntos en una iteración de dos semanas. Esto ayudó a ajustar el Sprint Backlog, asegurando que las tareas se alinearan con la capacidad real del equipo sin sobrecargarlo.
+    Comotodavia no tenemos sprints anteriores de los que podamos estimar la velocidad del equipo, se decidio estimar 30 puntos en una iteración de dos semanas. Esto nos permitio ajustar el Sprint Backlog, asegurando que las tareas se alinearan con la capacidad real del equipo sin sobrecargarlo. Como tuvimos que realizar cambios en el backlog como se explicó anteriormente, se la velocidad del equipo final fue de 26 puntos para esta iteración.
 
 2. Productividad del Equipo
 
@@ -231,10 +220,22 @@ Por otro lado, los puntos de historia se usaron para asignar un valor relativo d
     Estas métricas permitieron planificar de forma más precisa y ajustar el trabajo en tiempo real, asegurando un avance constante en el MVP. Para futuras iteraciones, se implementarán revisiones de velocidad y gráficos de avance semanal (burndown charts) para mejorar la eficiencia en el control del progreso del sprint.
 
 ## Seguimiento de la iteración
+
+Gaston Minetti:
+
 ![Clockify Gaston Minetti](<Images/Clockify Gaston Minetti.png>)
+
+Emily Symonds:
+
 ![Clockify Emily Symonds](<Images/clockify_Emily.jpeg>)
 
+Federico Katz:
 
+![Clockify Federico Katz](<Images/Clockify Federico.png>)
+
+Christian Ingrey:
+
+![Clockify Christian Ingrey](<Images/Clockify Christian.jpg>)
 
 ## Inspección y adaptación del proceso
 
