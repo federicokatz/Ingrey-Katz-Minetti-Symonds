@@ -47,7 +47,11 @@ Para que una historia de usuario esté finalizada en el prototipo:
 
 El Sprint Backlog contiene las historias de usuario priorizadas y las tareas necesarias para cumplir con el objetivo de la iteración: construir y validar posibles soluciones del MVP mediante prototipos. Estas historias de usuario han sido priorizadas de acuerdo a su impacto en el producto final y alineación con los objetivos de negocio. Las tareas se planificaron basándose en la capacidad y velocidad del equipo, tomando en cuenta las horas disponibles de cada integrante y las actividades paralelas que puedan afectar su disponibilidad.
 
-![Product Backlog](../Iteracion%201/Images/Product%20Backlog.png)
+![Product Backlog](<Images/Product Backlog.png>)
+
+Antes de comenzar la iteracion, el equipo se reunió para revisar el Product Backlog y seleccionar las historias de usuario que se abordarán en el Sprint Backlog. Se priorizaron las historias que aportan mayor valor al MVP y se estimaron las tareas necesarias para completarlas. A continuación, se detallan las historias de usuario seleccionadas.
+
+![Planning](<Images/planning.png>)
 
 
 ### Resumen del sprint planning
@@ -233,8 +237,11 @@ Por otro lado, los puntos de historia se usaron para asignar un valor relativo d
 
 ## Inspección y adaptación del proceso
 
+En el sprint meeting realizado el 22 de agosto, el equipo discutió el estado de las tareas actuales y la posible reestructuración de algunas historias de usuario:
 
+![Meeting](<Images/meeting.png>)
 
+Durante la retrospectiva realizada una vez terminado el sprint, se concluyó que las historias de usuario no completadas en el sprint actual (particularmente las de registro de gerente y alta de restaurantes) tendrán prioridad en el siguiente sprint, siempre y cuando se resuelvan las consultas pertinentes con el profesor. Esta decisión se tomó con el objetivo de asegurar el avance estratégico de las funcionalidades clave y optimizar el flujo de trabajo en los próximos sprints.
 
 # Construcción y validación de posibles soluciones del MVP a través de prototipos
 
