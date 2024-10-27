@@ -232,6 +232,7 @@ Por otro lado, los puntos de historia se usaron para asignar un valor relativo d
 
 ## Seguimiento de la iteración
 ![Clockify Gaston Minetti](<Images/Clockify Gaston Minetti.png>)
+![Clockify Emily Symonds](<Images/clockify_Emily.jpeg>)
 
 
 
