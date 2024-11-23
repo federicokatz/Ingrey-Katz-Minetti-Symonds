@@ -89,10 +89,58 @@ El criterio de planificación del equipo para esta entrega se baso en la disponi
 
 
 ### Técnicas de Priorización y Estimación Utilizadas
+Para esta iteración, utilizamos técnicas de priorización enfocadas en maximizar el impacto de las funcionalidades relacionadas con la gestión de valoraciones y comentarios, centrándonos en aquellas que ofrecieran mayor valor para el usuario en el contexto del MVP.
 
+**Priorización**
+Las historias de usuario fueron clasificadas según su impacto en la aplicación y el esfuerzo estimado de desarrollo. Las funcionalidades críticas para cerrar el ciclo de desarrollo del MVP recibieron la mayor prioridad
+
+**Técnica Utilizada:**
+Se hizo uso de la técnica MoSCoW, que permitió dividir las historias en categorías claras, asegurando que el equipo trabajara en los elementos más importantes:
+
+- Must have:
+    - Apelación de valoraciones y comentarios por parte de gerenciadores.
+    - Eliminación de valoraciones y comentarios por los administradores. Estas historias fueron esenciales para completar la funcionalidad central del MVP, por lo que se priorizaron en el Sprint Backlog.
+
+- Should have:
+    - Refinamiento de la interfaz de moderación para administradores.
+    - alidación de notificaciones relacionadas con comentarios. Estas tareas fueron consideradas importantes pero podrían haberse ajustado según el tiempo disponible.
+
+- Could have:
+    - Mejoras adicionales en la navegación para facilitar la visualización de comentarios.
+
+- Won't have: 
+    - Funcionalidades avanzadas de análisis y reportes sobre valoraciones. Estas fueron postergadas para ser evaluadas en futuros desarrollos.
+
+**Estimación:**
+
+Para estimar las tareas asociadas a las historias de usuario, utilizamos puntos de historia como medida relativa del esfuerzo requerido. Este enfoque permitió evaluar la complejidad de las tareas sin depender directamente de horas específicas, lo que facilitó la planificación y balanceo de la carga de trabajo.
+
+Esta combinación de MoSCoW y puntos de historia nos permitió priorizar eficientemente las historias clave, asegurando que los elementos críticos fueran desarrollados dentro del tiempo disponible y de acuerdo con la capacidad del equipo.
 
 
 ### Métricas Relevantes para la Planificación
+- Velocidad del Equipo: En esta iteración final, el equipo estimó una capacidad de 20 puntos, dado que la naturaleza de las tareas (cierres finales, ajustes de funcionalidades y entrega de artefactos) requería un enfoque más detallado.
+    - Todas las historias de usuario incluidas en el Sprint Backlog (apelación de comentarios y eliminación de valoraciones) se completaron exitosamente dentro del sprint.
+La estimación fue precisa, ya que permitió alcanzar los objetivos de la iteración sin generar sobrecarga para los integrantes.
+
+- Productividad del Equipo: 
+La productividad se midió de acuerdo con:
+    - Tareas completadas vs. planeadas: De las 2 historias de usuario planificadas, ambas se finalizaron satisfactoriamente.
+    - Ajustes proactivos: Durante las Daily Scrums, se identificaron impedimentos menores que se resolvieron rápidamente, manteniendo el enfoque en los objetivos principales.
+    - La equidad en la distribución de tareas permitió que cada miembro contribuyera de manera significativa según su rol y experiencia, mejorando el desempeño general.
+
+- Resultados y Lecciones Aprendidas
+Estas métricas ayudaron a:
+    - Planificar con precisión: Estimaciones realistas basadas en las iteraciones previas permitieron alcanzar un balance óptimo entre carga de trabajo y tiempo disponible.
+    - Adaptarse rápidamente: La productividad se mantuvo alta gracias al monitoreo constante y al enfoque en tareas críticas.
+    - Cierre exitoso del proyecto: El equipo entregó todos los artefactos finales (informe académico, video demo y prototipo ajustado), lo que asegura un avance sólido hacia la defensa del MVP.
+
+
+
+
+
+
+
 
 
 
@@ -123,7 +171,7 @@ Clockify Christian Ingrey:
 Clockify Federico Katz:
 
 Clockify Gastón Minetti:
-[Clockify Gaston Minetti](Images)
+![Clockify Gaston Minetti](./Images/ClockifyGastonMinetti.png)
 
 Clockify Emily Symonds:
 
