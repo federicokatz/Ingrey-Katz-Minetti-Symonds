@@ -48,6 +48,54 @@ Definition of Ready (DoR)
 
 ## Planificación de la iteración
 
+### Minuta de la Sprint Planning
+
+**Agenda:**
+- Revisión de los objetivos de la iteración.
+- Priorización de historias de usuario pendientes.
+- Estimación de tareas para las historias seleccionadas.
+- Distribución de responsabilidades según capacidad del equipo.
+- Planificación del seguimiento y criterios de éxito.
+
+**Actividades Realizadas:**
+- Revisión de las tareas pendientes en el backlog y las nuevas historias priorizadas.
+- Estimación de las tareas utilizando la técnica de Planning Poker.
+- Creación del cronograma de trabajo basado en la dificultad de la tarea y disponibilidad de cada integrante.
+
+**Resultados:**
+- Sprint Backlog definido con las historias de usuario seleccionadas.
+- Asignación clara de tareas para cada miembro del equipo.
+- Establecimiento de métricas de seguimiento, como la velocidad proyectada del equipo.
+
+
+### Objetivos de la Iteración
+- Implementar las funcionalidades relacionadas con la gestion de valoraciones y comentarios.
+    - Permitir la apelación de las puntuaciones por parte de los gerenciadores.
+    -Posibilidad de borrar dichas valoraciones que se consideren inapropiadas por parte de los administradores.
+- Refinar y consolidar la experiencia de usuario de estas funcionalidades.
+
+
+### Sprint Backlog
+Para esta iteración se realizaron las historias de usuario relacionadas a las valoraciones y comentarios. Dichas historias habilitan a los gerenciadores de restaurantes apelar a una puntuación o comentario inapropiado. De esta forma el negocio no se vea afectado injustamente. Por lo tanto se provee una solucion mas robusta para los usuarios de tipo gerenciador. 
+
+- Historia de Usuario: Apelación de puntuación o comentario
+Tarea: Diseñar una pantalla para apelación de valoraciones y comentarios que permita seleccionar una puntuación y dar una razon del rechazo.
+
+- Historia de Usuario: Administración de puntuación y comentarios
+Tarea: Crear un flujo de eliminación de valoraciones y comentarios, para que sea posible por un administrador de la plataforma eliminar aquellas puntuaciones que sean inapropiadas.
+
+### Planificación de acuerdo a la capacidad del equipo.
+El criterio de planificación del equipo para esta entrega se baso en la disponibilidad de los integrantes y de la complejidad de las tareas a realizar. Dicho esto, todas las tareas se dividieron de forma equitativa, logrando que todos los integrantes del grupo aprotaran a la solución general.
+
+
+### Técnicas de Priorización y Estimación Utilizadas
+
+
+
+### Métricas Relevantes para la Planificación
+
+
+
 ## Seguimiento de la iteración
 
 ## Inspección y adaptación del proceso
@@ -94,6 +142,9 @@ Definition of Ready (DoR)
 - Validaciones con Usuarios:
     - Planificación: Se programaron sesiones de validación al finalizar cada sprint para integrar feedback temprano en el prototipo.
     - Seguimiento: Aunque esta práctica no se implementó al 100% debido al tiempo limitado, se utilizó en iteraciones clave para ajustes de funcionalidad.
+
+
+
 
 
 ## Artefactos principales
