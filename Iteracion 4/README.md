@@ -98,6 +98,40 @@ El criterio de planificación del equipo para esta entrega se baso en la disponi
 
 ## Seguimiento de la iteración
 
+### Minuta de las Daily Scrums
+
+**Frecuencia:** Se realizó una unica Daily Scrums durante la iteración 4.
+
+**Formato de las Reunion**
+
+¿Qué logramos hacer?
+- Los integrantes del equipo compartieron el avance en sus tareas asignadas.
+- Se destacaron los historias de usuario completadas, como el desarrollo del flujo de apelaciones y la creación de la interfaz de eliminación de valoraciones y comentarios para los administradores.
+
+¿Qué planificamos hacer?
+- Se discutieron las tareas a completar antes de la finalización del proyecto, asignando prioridades según los objetivos del sprint.
+- Una de estas tareas fue revisar el prototipo para validar que se ajusta al feedback recibido.
+
+¿Qué impedimentos tenemos?
+- Algunos problemas técnicos fueron identificados, como la necesidad de ajustar el diseño de la interfaz.
+
+
+### Registro y Reporte de Horas
+
+Clockify Christian Ingrey:
+
+Clockify Federico Katz:
+
+Clockify Gastón Minetti:
+[Clockify Gaston Minetti](Images)
+
+Clockify Emily Symonds:
+
+
+### Seguimiento visual de la iteración con burndown y/o burnup charts.
+
+
+
 ## Inspección y adaptación del proceso
 
 ### Minuta de la retrospectiva
