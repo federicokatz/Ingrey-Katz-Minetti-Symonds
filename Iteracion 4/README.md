@@ -167,6 +167,7 @@ Estas métricas ayudaron a:
 ### Registro y Reporte de Horas
 
 Clockify Christian Ingrey:
+![Clockify Christian Ingrey](https://github.com/user-attachments/assets/695d76a8-4928-4670-85cf-2f8f9bf356e1)
 
 Clockify Federico Katz:
 
