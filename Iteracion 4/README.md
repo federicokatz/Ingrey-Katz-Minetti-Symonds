@@ -282,6 +282,120 @@ Clockify Emily Symonds:
 ![UserStory8 Edicion de Perfil](https://github.com/user-attachments/assets/f445a577-db51-47b6-bca8-d5985feeb3b6)
 ![Modificar avatar](https://github.com/user-attachments/assets/c385fabb-ac4e-4860-b3ce-8fce5882db68)
 
+#### User Story 9
+- **Como** usuario registrado
+- **Quiero** agregar restaurantes a mi lista de favoritos por zona
+- **Para** poder acceder rápidamente a ellos y recibir notificaciones de promociones
+![UserStory9 Restaurante Favorito](https://github.com/user-attachments/assets/61db97d7-f662-4260-ad1f-9f9f03774dad)
+
+#### User Story 10
+- **Como** usuario registrado
+- **Quiero** configurar mi usuario
+- **Para** recibir notificaciones
+![UserStory10 Configuracion de notificaiones](https://github.com/user-attachments/assets/5f185462-22b4-4ee5-93e2-d7501a53af06)
+
+#### User Story 11
+- **Como** administrador de la plataforma 
+- **Quiero** registrar gerentes para los restaurantes
+- **Para** asegurar que haya un responsable asignado a un restaurante.
+![UserStory11 Registro de Gerentes](https://github.com/user-attachments/assets/d4d2644f-0397-47b9-b31b-1666ab74a1d5)
+
+#### User Story 12
+- **Como** usuario registrado
+- **Quiero** ver las puntuaciones y comentarios de otros usuarios sobre los restaurantes
+- **Para** tomar una decisión informada antes de hacer una reserva
+![UserStory12 Ver Comentarios](https://github.com/user-attachments/assets/a283a9c4-28d2-4640-a729-db6985095cb5)
+
+#### User Story 13
+- **Como** usuario registrado
+- **Quiero** visualizar el estatus de mis reservas
+- **Para** poder verificar si han sido confirmadas, modificadas o canceladas por el restaurante.
+![UserStory13 Ver Reservas](https://github.com/user-attachments/assets/1c0056e6-727a-438a-bde1-7dd375d8fc3b)
+
+#### User Story 14
+- **Como** gerente de un restaurante
+- **Quiero** confirmar las reservas solicitadas por los clientes
+- **Para** asegurar que las mesas están correctamente asignadas y optimizar la gestión de las reservas.
+![UserStory14 Confirmar Reservas](https://github.com/user-attachments/assets/bb02f632-f017-4791-8b54-f630530f01de)
+
+#### User Story 15
+- **Como** gerente de un restaurante
+- **Quiero** cancelar reservas en caso de fuerza mayor o problemas de disponibilidad
+- **Para** asegurar una gestión eficiente de las mesas y mantener informados a los clientes.
+![UserStory16 Cancelar Reserva](https://github.com/user-attachments/assets/ee12ea91-2104-49b1-8dab-f78adcf8c258)
+
+#### User Story 16
+- **Como** gerente de un restaurante
+- **Quiero** modificar los horarios de atención del restaurante
+- **Para** reflejar los cambios operativos y garantizar que los clientes siempre vean los horarios correctos
+![UserStory16 Modificacion de horarios](https://github.com/user-attachments/assets/514b79d2-7d80-4809-89fc-1680d23476ec)
+
+#### User Story 17
+- **Como** gerente de un restaurante
+- **Quiero** modificar los tipos de comida que ofrece mi restaurante
+- **Para** reflejar cambios en el menú o nuevas ofertas y asegurar que los clientes vean la información actualizada.
+![UserStory17 Modificar comidas](https://github.com/user-attachments/assets/ffb6240d-df0c-4e2a-864e-e0c63e745f8f)
+
+#### User Story 18
+- **Como** gerente de un restaurante
+- **Quiero** apelar una puntuación o comentario injusto que recibe mi restaurante
+- **Para** proteger la reputación del restaurante y solicitar una revisión adecuada.
+![UserStory18 Apelacion](https://github.com/user-attachments/assets/fdb7e06b-327f-4f53-a1f5-60553e88c3cc)
+
+#### User Story 19
+- **Como** gerente de un restaurante
+- **Quiero** recibir notificaciones cuando se solicite una reserva en mi restaurante
+- **Para** poder gestionar las reservas de manera eficiente y garantizar la asignación adecuada de mesas.
+![UserStory19 ver notificaciones](https://github.com/user-attachments/assets/746e697d-23db-49e7-a0f3-532129cdf9e8)
+
+#### User Story 20
+- **Como** gerente de un restaurante
+- **Quiero** crear promociones para mi restaurante que serán visualizadas por los clientes
+- **Para** atraer más clientes durante ciertos horarios o días específicos.
+![UserStory20 Creacion de promociones](https://github.com/user-attachments/assets/761f49ee-bb38-4368-b693-73c2cdf6792b)
+
+#### User Story 21
+- **Como** administrador de la plataforma
+- **Quiero** dar de alta nuevos restaurantes, indicando su dirección, tipo de comida y horarios
+- **Para** que los clientes puedan hacer reservas y ver la información actualizada del restaurante.
+![UserStory21 alta restaurantes](https://github.com/user-attachments/assets/7f805ca6-95e7-461d-9f68-898c1b17b44b)
+
+#### User Story 22
+- **Como** administrador de la plataforma
+- **Quiero** dar de alta a gerentes para los restaurantes
+- **Para** asegurar que cada restaurante esté gestionado correctamente y que los gerentes puedan administrar reservas, promociones y comentarios.
+![UserStory22 Alta gerenciador en restaurante](https://github.com/user-attachments/assets/a52a5ff7-b889-45aa-8c1e-10457639d006)
+
+#### User Story 23
+- Como administrador de la plataforma
+- Quiero modificar la información de los gerentes asignados a un restaurante o reasignar gerentes a otros restaurantes
+- Para asegurar que la gestión de los restaurantes sea actualizada y efectiva.
+![UserStory23 Modificacion gerenciador en restaurante](https://github.com/user-attachments/assets/cc4ac772-f43b-4e82-ad00-a3429765332e)
+
+#### User Story 24
+- **Como** administrador de la plataforma
+- **Quiero** indicar qué restaurantes pueden aceptar reservas
+- **Para** controlar cuáles restaurantes están habilitados para recibir reservas y permitir que los clientes hagan reservas solo en esos restaurantes.
+![UserStory24 Reservas activas](https://github.com/user-attachments/assets/d15eaaa8-470b-4a41-a23f-886448b4ef64)
+
+#### User Story 25
+- **Como** administrador de la plataforma
+- **Quiero** gestionar los comentarios y puntuaciones que los clientes dejan en los restaurantes
+- **Para** asegurarse de que las reseñas sean apropiadas y cumplan con las políticas de la plataforma.
+![UserStory25 Administracion de Comentarios](https://github.com/user-attachments/assets/9b079555-feeb-409b-ad1a-f260ebfffedd)
+
+#### User Story 26
+- **Como** usuario registrado
+- **Quiero** recibir notificaciones de promociones de mis restaurantes favoritos 
+- **Para** estar informado de las mejores ofertas
+![UserStory26 Notificaciones de cliente](https://github.com/user-attachments/assets/61cfbf18-658f-4a6b-b2f7-225d4b805cdf)
+
+#### User Story 27
+- **Como** usuario registrado
+- **Quiero** visualizar mi perfil que incluya nombre de usuario, avatar, restaurantes favoritos, recomendaciones realizadas y mi historial de visitas a restaurantes
+- **Para** revisar y gestionar mi actividad dentro de la aplicación
+![UserStory27 Ver perfil](https://github.com/user-attachments/assets/835b38b5-d320-462c-888b-58c4cc97ae1d)
+
 
 ### Lista de posibles características (features) que quedaron fuera del alcance del proyecto para expandir el sistema y agregar valor:
 #### Colaboración y Redes Sociales
