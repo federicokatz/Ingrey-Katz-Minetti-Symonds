@@ -184,6 +184,57 @@ Clockify Emily Symonds:
 ## Artefactos principales
 ### Prototipos interactivos finales con el feedback de las validaciones.
 ### Prototipos asociados como bocetos a las historias de usuario.
+
+#### User Story 1
+- **Como** usuario registrado
+- **Quiero** realizar una reserva en un restaurante
+- **Para** asegurarme de tener mesa disponible en la fecha y horario que deseo
+![UserStory1 Crear Restaurante](https://github.com/user-attachments/assets/2f4b896d-bdae-4538-8224-917ba16c80f9)
+
+#### User Story 2
+- **Como** usuario de la aplicación
+- **Quiero** visualizar los restaurantes disponibles en mi zona, junto con sus valoraciones y rango de precios
+- **Para** elegir el mejor restaurante según mis preferencias.
+  ![UserStory2 Vizualizar restaurantes](https://github.com/user-attachments/assets/f6079579-1e12-424a-b18b-96b6f796f3f2)
+
+#### User Story 3
+- **Como** usuario registrado
+- **Quiero** cancelar una reserva realizada previamente
+- **Para** liberar la mesa que ya no utilizaré y evitar cargos innecesarios
+![UserStory3 Cancelar reservas](https://github.com/user-attachments/assets/cd92717e-e655-46a2-82ed-d113ad13013d)
+
+#### User Story 4
+- **Como** usuario registrado
+- **Quiero** recibir notificaciones de recomendaciones diarias en base a mi historial de reservas y valoraciones
+- **Para** descubrir nuevos restaurantes y platos que podrían interesarme
+![UserStory4 Recibir notificaciones](https://github.com/user-attachments/assets/b91281f5-a232-4af7-85ae-be41df8049ad)
+
+#### User Story 5
+- **Como** un usuario final de la aplicación
+- **Quiero** registrarme en la plataforma utilizando mi correo electrónico
+- **Para** poder acceder a todas las funcionalidades y realizar reservas en restaurantes
+![UserStory5 Login](https://github.com/user-attachments/assets/be56e244-0fb2-4adb-b235-c52d776ebfcb)
+
+#### User Story 6
+- **Como** usuario registrado
+- **Quiero** recuperar mi contraseña cuando la haya olvidado
+- **Para** poder restablecer mi acceso a la aplicación sin perder mi cuenta.
+![UserStory6 Recuperar contrsena](https://github.com/user-attachments/assets/ee29c479-d65d-4d46-934f-4abc8419944b)
+
+#### User Story 7
+- **Como** usuario registrado
+- **Quiero** cerrar sesión en la aplicación
+- **Para** proteger mis datos personales cuando no utilizo el servicio
+![UserStory7 Logout](https://github.com/user-attachments/assets/05ad0efc-177f-46bb-87ca-fda405c7592d)
+
+#### User Story 8
+- **Como** usuario registrado
+- **Quiero** editar mi perfil
+- **Para** actualizar mi información personal, como el avatar, nombre de usuario y restaurantes favoritos
+![UserStory8 Edicion de Perfil](https://github.com/user-attachments/assets/f445a577-db51-47b6-bca8-d5985feeb3b6)
+![Modificar avatar](https://github.com/user-attachments/assets/c385fabb-ac4e-4860-b3ce-8fce5882db68)
+
+
 ### Lista de posibles características (features) que quedaron fuera del alcance del proyecto para expandir el sistema y agregar valor:
 #### Colaboración y Redes Sociales
 - El cliente comentó sobre que los gerenciadores y usuarios podrían:
