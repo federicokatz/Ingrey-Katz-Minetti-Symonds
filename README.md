@@ -1,1 +1,0 @@
-# Ingrey-Katz-Minetti-Symonds

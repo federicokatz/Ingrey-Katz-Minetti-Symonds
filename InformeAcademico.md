@@ -1,16 +1,25 @@
 ## Índice
 
-1. [Introducción](#introducción)
-2. [Metodologia](#metodologia)
-    - [Adaptacion del marco SCRUM](#adaptacion-del-marco-scrum)
-    - [Planificacion de las iteraciones](#planificación-de-las-iteraciones)
-3. [Resultados por iteracion](#resultados-por-iteración)
-4. [Reflexiones y aprendizajes](#reflexiones-y-aprendizajes)
-    - [Lecciones aprendidas sobre la aplicación del marco SCRUM](#lecciones-aprendidas-sobre-la-aplicación-del-marco-scrum)
-    - [Impacto de las prácticas de ingeniería ágil en el desarrollo del MVP](#impacto-de-las-prácticas-de-ingeniería-ágil-en-el-desarrollo-del-mvp)
-    - [Desafíos enfrentados y cómo se resolvieron](#desafíos-enfrentados-y-cómo-se-resolvieron)
-5. [Conclusion](#conclusión)
-    - [Evaluacion general del proyecto](#evaluación-general-del-proyecto)
+- [Índice](#índice)
+- [Introducción](#introducción)
+- [Metodologia](#metodologia)
+  - [Adaptacion del marco SCRUM](#adaptacion-del-marco-scrum)
+    - [Roles del equipo](#roles-del-equipo)
+    - [Eventos SCRUM](#eventos-scrum)
+    - [Artefactos](#artefactos)
+  - [Planificación de las iteraciones](#planificación-de-las-iteraciones)
+    - [Estrategias para estimar capacidad y velocidad del equipo](#estrategias-para-estimar-capacidad-y-velocidad-del-equipo)
+      - [Capacidad del equipo:](#capacidad-del-equipo)
+      - [Estimaciones de las tareas:](#estimaciones-de-las-tareas)
+- [Resultados por Iteración](#resultados-por-iteración)
+- [Mejoras y ajustes principales a los entregables](#mejoras-y-ajustes-principales-a-los-entregables)
+- [Reflexiones y Aprendizajes](#reflexiones-y-aprendizajes)
+  - [Lecciones aprendidas sobre la aplicación del marco SCRUM](#lecciones-aprendidas-sobre-la-aplicación-del-marco-scrum)
+  - [Impacto de las prácticas de ingeniería ágil en el desarrollo del MVP](#impacto-de-las-prácticas-de-ingeniería-ágil-en-el-desarrollo-del-mvp)
+  - [Desafíos enfrentados y cómo se resolvieron](#desafíos-enfrentados-y-cómo-se-resolvieron)
+- [Conclusión](#conclusión)
+  - [Evaluación general del proyecto](#evaluación-general-del-proyecto)
+- [Video demo](#video-demo)
 
 
 
@@ -41,7 +50,7 @@ Cada rol se adaptó según las necesidades y capacidades del equipo, permitiendo
 #### Eventos SCRUM
 Los eventos del marco SCRUM se implementaron de la siguiente manera:
 
-Daily Scrum: Se realizaron reuniones diarias de 15-20 minutos donde el equipo compartió los avances del día anterior, los objetivos del día actual y los posibles impedimentos, ayudandonos a sincronizarnos.
+Daily Scrum: Se realizaron reuniones de 15-20 minutos e intercambios de mensajes donde el equipo compartió los avances de los días anteriores, los objetivos del día actual y los posibles impedimentos, ayudandonos a sincronizarnos. La frecuencia de estas reuniones no fue diaria, ya que el proyecto no lo requería, sino que fue semanal, para que el contenido de las meetings sea mas nutritivo para el equipo.
 
 Sprint Planning: Al inicio de cada iteración, nos aseguramos de definir los objetivos del sprint y seleccionar las historias de usuario prioritarias del Product Backlog. Durante la planificación, se desglosaron las tareas necesarias para cumplir con los objetivos y se estimaron los tiempos de desarrollo.
 
@@ -84,14 +93,19 @@ La productividad se midió comparando tareas completadas vs. planeadas, permitie
 Estas métricas permitieron planificar de forma más precisa y ajustar el trabajo en tiempo real, asegurando un avance constante en el MVP.
 
 ## Resultados por Iteración
-Iteración 1: En la primera iteración, el equipo se dedicó a analizar el problema y definir las bases del MVP. Se identificaron dos tipos principales de usuarios: clientes, interesados en gestionar reservas y recibir recomendaciones, y gerentes de restaurantes, enfocados en administrar reservas y promociones. Se creó una lista inicial de funcionalidades, incluyendo registro, login, sistema de reservas y notificaciones personalizadas. Además, se analizaron aplicaciones similares, lo que permitió facilitar la identificacion de funcionalidades comunes entre ellas que los usuarios prefieren.
+Iteración 1: En la primera iteración, el equipo se dedicó a analizar el problema y definir las bases del MVP. Se identificaron tres tipos principales de usuarios: clientes (interesados en gestionar reservas y recibir recomendaciones), gerentes de restaurantes (enfocados en administrar reservas y promociones) y administradores (encargados de gestionar la creación de restaurantes y gerentes). Se creó una lista inicial de funcionalidades, incluyendo registro, login, sistema de reservas y notificaciones personalizadas. Además, se analizaron aplicaciones similares, lo que permitió facilitar la identificacion de funcionalidades comunes entre ellas que los usuarios prefieren.
 
 Iteraciones 2 y 3:
 Estas iteraciones se centraron en diseñar y validar el prototipo del sistema. Se desarrollaron wireframes para las funcionalidades clave, como el registro de usuarios, reservas y panel de administración para gerentes. Mediante pruebas con usuarios (en este proyecto acudimos a familiares cercanos y amigos), se recopiló feedback que permitió realizar ajustes en la navegación y usabilidad. Estas mejoras se integraron en los prototipos finales, logrando avances significativos en la funcionalidad y experiencia de usuario.
 
 Iteracion 4:
-La última iteración consolidó el trabajo previo y permitió reflexionar sobre las lecciones aprendidas. Se documentaron los resultados, destacando la validación exitosa del MVP con un prototipo funcional. Se implementaron mejoras en la organización del equipo y el manejo del tiempo, optimizando la equidad y productividad. Finalmente, se elaboró un video demo que presenta el flujo principal del prototipo, resaltando el problema que resuelve y el valor que aporta, el cual está enlazado al comienzo del informe.
+La última iteración consolidó el trabajo previo y permitió reflexionar sobre las lecciones aprendidas. Se documentaron los resultados, destacando la validación exitosa del MVP con un prototipo funcional. Se implementaron mejoras en la organización del equipo y el manejo del tiempo, optimizando la equidad y productividad. Finalmente, se elaboró un video demo que presenta el flujo principal del prototipo, resaltando el problema que resuelve y el valor que aporta, el cual está enlazado más adelante en este informe.
 
+## Mejoras y ajustes principales a los entregables
+
+En la iteración 2, tuvimos que retrasar las implementaciones de las funcionalidades relacionadas con los gerenciadores y administradores, debido a dudas que fueron resueltas cerca de la fecha de finalizacion. Sin embargo, sustituimos dichas historias de usuario por otras del backlog, lo que nos permitio cumplir con el objetivo de la iteracion y acercarnos a la velocidad estimada.
+
+En la iteración 3, se realizaron ajustes en el dise;O de la visualización y configuración del perfil de usuario, para mejorar la usabilidad y la experiencia del usuario. Se incorporaron elementos de diseño más intuitivos y se simplificó la navegación, lo que resultó en una mejora significativa en la interacción con el prototipo.
 
 ## Reflexiones y Aprendizajes
 ### Lecciones aprendidas sobre la aplicación del marco SCRUM
@@ -125,3 +139,9 @@ Sin embargo, se reconocieron áreas de mejora para futuras iteraciones, entre el
 * Documentación continua: Mantener una documentación más detallada y actualizada durante todo el proyecto, lo que facilita el análisis retrospectivo y la transferencia de conocimiento.
 
 En general, el proyecto dejó aprendizajes significativos sobre la aplicación de prácticas ágiles y sirvió como una experiencia valiosa para proximos proyectos academicos o para adaptarnos con mas facilidad a la hora de unirnos a una empresa que utilice estas practicas.
+
+## Video demo
+
+En el siguiente video, mostramos una demostración del prototipo MVP desarrollado, presentando las funcionalidades clave y el flujo principal de la aplicación:
+
+Link: [Video Demo](https://www.youtube.com/watch?v=bykKDfkQCX8)

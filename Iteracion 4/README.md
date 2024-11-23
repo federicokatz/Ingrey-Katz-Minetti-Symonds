@@ -5,21 +5,43 @@
 
 SCRUM se utilizó como marco de trabajo ágil debido a su enfoque iterativo y su capacidad para gestionar la inspección y adaptación constantes, lo cual resultó esencial durante el desarrollo del prototipo de la aplicación de reservas y evaluación de restaurantes. En esta iteración final, el marco SCRUM permitió consolidar los aprendizajes de las iteraciones previas, realizar ajustes finales al prototipo y documentar los resultados obtenidos.
 
-**Evidencia de Prácticas Aplicadas:**
+#### Roles del Equipo y Responsabilidades
 
+- Product Owner (PO): Responsable de definir y priorizar las historias de usuario en el Product Backlog, asegurando que cada funcionalidad esté alineada con los objetivos del proyecto y las necesidades de los usuarios.
+    -  Integrante: Federico Katz
 
-
-**Roles del Equipo Y Responsabilidades**
-
-- Product Owner (PO): Responsable de revisar y validar los entregables finales, priorizando los elementos que debían consolidarse en el informe académico y el video demo. Además, facilitó la recopilación de feedback clave durante las revisiones.
-    - Integrante: Federico Katz
-- Scrum Master (SM): Aseguró que el equipo cumpliera con los eventos y las prácticas de SCRUM durante la iteración final, promoviendo la reflexión y mejora continua en las retrospectivas. También facilitó la coordinación para la integración de los entregables en el repositorio principal.
+- Scrum Master (SM): Facilita el cumplimiento del marco de trabajo, asegurando que el equipo siga las prácticas acordadas y resolviendo cualquier obstáculo que pueda surgir. Promueve la mejor a continua a través de retrospectivas y seguimiento de la dinámica del equipo.
     - Integrante: Gastón Minetti
-- Equipo de Desarrollo: Se encargó de completar los ajustes finales del prototipo, diseñar el video demo y elaborar el informe académico. Además son los encargados de asegurar que las entregas cumplan con el Definition of Done (DoD).
-    - Integrantes: Christian Ingrey y Emily Symonds
 
-## Artefactos Principales
-**Justificación de las Adaptaciones Principales del Marco de Trabajo**
+- Equipo de Desarrollo: 
+Conformado por los miembros encargados de diseñar y prototipar las funcionalidades, siguiendo las historias priorizadas. Trabajan en cada iteración para completar el Sprint Backlog y asegurar que las entregas cumplan con el Definition of Done (DoD).
+Integrantes:
+    - Christian Ingrey
+    - Emily Symonds
+
+
+#### Definition of Ready (DoR)
+
+Para que una historia de usuario esté lista para ser trabajada en el prototipo:
+- **Narrativa completa y clara:** La historia de usuario debe especificar quién es el usuario, qué quiere lograr y el beneficio o propósito de la funcionalidad (por ejemplo: "Como usuario registrado, quiero recibir notificaciones de promociones para aprovechar descuentos en mis restaurantes favoritos").
+
+- **Criterios de aceptación bien definidos:** La historia debe incluir al menos un escenario de aceptación claro que detalle las condiciones exactas en las que se considerará que la funcionalidad está cumplida.
+Especificación de flujo de usuario: El flujo de interacción debe estar detallado desde el primer paso hasta el final, describiendo cómo el usuario interactúa con cada elemento y las pantallas involucradas.
+- **Contenido y textos definidos:** Se deben definir todos los textos que aparecerán en la interfaz, incluyendo etiquetas, mensajes y cualquier otro texto que oriente al usuario durante la experiencia.
+- **Aprobación del Product Owner:** El Product Owner debe haber revisado y aprobado la historia, asegurando que es relevante, prioritaria y clara para ser trabajada en el prototipo.
+
+
+#### Definition of Done (DoD)
+
+Para que una historia de usuario esté finalizada en el prototipo:
+- **Pantallas y flujo de interacción completados:** Todas las pantallas necesarias están diseñadas en Framer, reflejando fielmente el flujo descrito en los criterios de aceptación y el flujo de usuario detallado en la historia.
+- **Interactividad simulada en Framer:** Las interacciones principales están configuradas en Framer, permitiendo una experiencia de usuario que simula los pasos descritos, incluyendo navegación entre pantallas y elementos interactivos, como botones y formularios.
+- **Contenido y textos implementados:** Todos los textos definidos en la historia (etiquetas, mensajes, placeholders) están implementados en el prototipo, asegurando que orientan al usuario según lo especificado.
+- **Experiencia revisada y aprobada por el Product Owner:** El Product Owner ha revisado el prototipo en Framer y ha confirmado que cumple con los criterios de aceptación y que la experiencia de usuario sigue el flujo especificado.
+- **Exportación del prototipo:** El prototipo ha sido exportado en formato de imagen (PNG o JPG) o PDF, y se ha cargado en el repositorio de GitHub para permitir su visualización y consulta por el equipo y las partes interesadas.
+- **Documentación de decisiones de diseño en Framer:** Se han añadido comentarios en el proyecto de Framer para documentar cualquier decisión de diseño o cambio significativo en el flujo, asegurando que el equipo y el Product Owner puedan comprender fácilmente el enfoque tomado en el prototipo.
+
+#### Justificación de las Adaptaciones Principales del Marco de Trabajo
 
 En esta iteración, se adaptaron algunos eventos y prácticas del marco SCRUM para ajustarse al objetivo principal de cerrar el proyecto:
 - Se redujo la frecuencia de las Daily Scrums para poder dedicarle más tiempo a los entregables clave.
@@ -27,24 +49,12 @@ En esta iteración, se adaptaron algunos eventos y prácticas del marco SCRUM pa
 - Se dio lugar a la retroalimentación del Product Owner sobre eventos como la validación con usuarios externos.
 - La retrospectiva se utilizó para analizar de forma más profunda las lecciones aprendidas a lo largo de todo el proyecto, con énfasis en cómo estas podrían aplicarse en futuros proyectos o experiencias.
 
-**Definición del Calendario de Eventos**
+#### Definición del Calendario de Eventos 
 
 - Daily Scrum: Se realizó una única daily, dado al hecho de que quedan solamente dos requerimientos, por lo que el equipo no considero necesario hacer más. Aquí se priorizaron la resolución de impedimentos y de tareas críticas.
 - Sprint Planning: Se definieron claramente las tareas necesarias para completar el informe académico y el video, dando una priorización acorde.
 - Sprint Review: Se realizó al finalizar la iteración para validar el informe académico y la demo con el product owner.
 - Retrospectiva: Se discutieron los aprendizajes clave y las mejoras aplicables en futuros proyectos y experiencias.
-
-**Políticas de Trabajo en Equipo**
-
-Definition of Done (DoD)
-- Informe académico: debe ser en formato Markdown y organizado en secciones claras. El contenido debe reflejar los objetivos del proyecto y aprendizajes claves. Por último, el archivo debe estar revisado, aprobado y disponible en el repositorio Github.
-- Video de demostración: debe estar grabado, teniendo una duracion maxima de 6 minutos. Tiene que demostrar el flujo principal del prototipo, explicando que busca resolver y el valor agregado por la solución. Al igual que el informe académico, debe ser adjuntado en el repositorio.
-- Prototipo final: incorpora los cambios sugeridos por usuarios como amigos y familiares. Debe estar revisado y aprobado por el product owner.
-- Trabajo integrado: debe estar todo integrado en la rama main del repositorio en Github.
-
-Definition of Ready (DoR)
-- Tareas claramente definidas: con criterios de aceptación específicos. El alcance del informe debe estar claro, incluyendo las secciones a completar.
-- Recursos necesarios: deben estar disponibles los recursos como prototipos y comentarios previos, tanto de feedback como de correcciones.
 
 ## Planificación de la iteración
 
@@ -85,7 +95,7 @@ Tarea: Diseñar una pantalla para apelación de valoraciones y comentarios que p
 Tarea: Crear un flujo de eliminación de valoraciones y comentarios, para que sea posible por un administrador de la plataforma eliminar aquellas puntuaciones que sean inapropiadas.
 
 ### Planificación de acuerdo a la capacidad del equipo.
-El criterio de planificación del equipo para esta entrega se baso en la disponibilidad de los integrantes y de la complejidad de las tareas a realizar. Dicho esto, todas las tareas se dividieron de forma equitativa, logrando que todos los integrantes del grupo aprotaran a la solución general.
+El criterio de planificación del equipo para esta entrega se baso en la disponibilidad de los integrantes y de la complejidad de las tareas a realizar. Dicho esto, las tareas se dividieron de forma equitativa, logrando que todos los integrantes del grupo aprotaran a la solución general.
 
 
 ### Técnicas de Priorización y Estimación Utilizadas
@@ -119,8 +129,8 @@ Esta combinación de MoSCoW y puntos de historia nos permitió priorizar eficien
 
 
 ### Métricas Relevantes para la Planificación
-- Velocidad del Equipo: En esta iteración final, el equipo estimó una capacidad de 20 puntos, dado que la naturaleza de las tareas (cierres finales, ajustes de funcionalidades y entrega de artefactos) requería un enfoque más detallado.
-    - Todas las historias de usuario incluidas en el Sprint Backlog (apelación de comentarios y eliminación de valoraciones) se completaron exitosamente dentro del sprint.
+- Velocidad del Equipo: En esta iteración final, el equipo estimó una capacidad de 5 puntos, dado a que las tareas restantes a realizar fueron mínimas.
+- Todas las historias de usuario incluidas en el Sprint Backlog (apelación de comentarios y eliminación de valoraciones) se completaron exitosamente dentro del sprint.
 La estimación fue precisa, ya que permitió alcanzar los objetivos de la iteración sin generar sobrecarga para los integrantes.
 
 - Productividad del Equipo: 
@@ -135,16 +145,13 @@ Estas métricas ayudaron a:
     - Adaptarse rápidamente: La productividad se mantuvo alta gracias al monitoreo constante y al enfoque en tareas críticas.
     - Cierre exitoso del proyecto: El equipo entregó todos los artefactos finales (informe académico, video demo y prototipo ajustado), lo que asegura un avance sólido hacia la defensa del MVP.
 
-
-
-
-
-
-
-
-
-
 ## Seguimiento de la iteración
+
+### Burndown Chart
+
+En la siguiente imagen se puede ver como quedó la burndown chart una vez finalizado el proyecto. Como se puede apreciar, no quedaron story points pendientes, ya que todas las stories fueron implementadas.
+
+![Burndown Chart](Images/BurndownChart.png)
 
 ### Minuta de las Daily Scrums
 
@@ -167,8 +174,10 @@ Estas métricas ayudaron a:
 ### Registro y Reporte de Horas
 
 Clockify Christian Ingrey:
+![Clockify Christian Ingrey](./Images/ClockifyChristian.png)
 
 Clockify Federico Katz:
+![Clockify Federico Katz](./Images/ClockifyFederico.png)
 
 Clockify Gastón Minetti:
 ![Clockify Gaston Minetti](./Images/ClockifyGastonMinetti.png)
@@ -192,41 +201,19 @@ Clockify Emily Symonds:
 
 **Desarrollo de la dinámica:**
 - Cada miembro compartió observaciones sobre el proceso de trabajo.
-- Se discutieron acciones concretas a implementar basadas en las observaciones.
-- Se argumento la mejor forma de implementar dichas acciones para el beneficio del equipo.
-
-**Resultados Principales:**
-
-- Incorporar validaciones más frecuentes con usuarios para evitar ajustes tardíos en próximas iteraciones.
-- Dedicar más tiempo al diseño inicial de historias de usuario, asegurando que sean claras y específicas desde el principio.
-- Reducir el tiempo invertido en discusiones largas durante las Daily Scrums. Se propuso limitar cada reunión a un máximo de 20 minutos.
-- Evitar sobrecargar a ciertos miembros del equipo con múltiples responsabilidades, distribuyendo tareas de manera más equitativa.
-- Utilizar métricas como el burndown chart para monitorear el progreso y detectar atrasos a tiempo.
-- Mantener las retrospectivas estructuradas, ya que facilitaron la mejora continua a lo largo del proyecto.
 
 
 ### Planificación y Seguimiento de Acciones de Mejora
 
 **Acciones Identificadas e Implementadas:**
 
-- Revisión de Historias de Usuario:
-    - Planificación: A partir de la retrospectiva, se acordó que todas las historias deben pasar por una revisión previa con el Product Owner antes de agregarse al Sprint Backlog.
-    - Seguimiento: Se aplicó este enfoque durante la iteración 4, lo que resultó en menos revisiones y correcciones a mitad de la iteración.
-
 - Distribución Equitativa del Trabajo:
     - Planificación: Se asignaron tareas según las fortalezas individuales y la capacidad disponible de cada integrante, ajustando las responsabilidades iniciales.
     - Seguimiento: Se monitoreó el avance de cada miembro para evitar sobrecargas y asegurar una contribución balanceada. Con el equipo estando disponible para ayudar en cualquier situacion de dificultad.
 
-- Optimización de las Daily Scrums:
-    - Planificación: Establecer un límite estricto de 20 minutos para las reuniones y un enfoque exclusivo en problemas críticos.
-    - Seguimiento: Esta práctica fue adoptada durante la iteración 4, mejorando la eficiencia sin comprometer la comunicación del equipo.
-
 - Validaciones con Usuarios:
     - Planificación: Se programaron sesiones de validación al finalizar cada sprint para integrar feedback temprano en el prototipo.
     - Seguimiento: Aunque esta práctica no se implementó al 100% debido al tiempo limitado, se utilizó en iteraciones clave para ajustes de funcionalidad.
-
-
-
 
 
 ## Artefactos principales
@@ -399,9 +386,7 @@ Clockify Emily Symonds:
 
 ### Lista de posibles características (features) que quedaron fuera del alcance del proyecto para expandir el sistema y agregar valor:
 #### Colaboración y Redes Sociales
-- El cliente comentó sobre que los gerenciadores y usuarios podrían:
   - Compartir en Redes: Integrar botones para compartir contenido en redes sociales.
-  - Comentarios y Reseñas: Permitir a los usuarios comentar o reseñar elementos dentro del sistema.
 
   Esto le permitirá dar a los restaurantes una forma de crecer y poder llegar a diferentes consumidores.
 
@@ -411,14 +396,18 @@ Clockify Emily Symonds:
   - Reportes Automáticos: Enviar reportes periódicos sobre estas estadísticas así se automatiza el proceso, además de poder consumir estas estadísticas en cualquier momento.
 
 #### Soporte Multilingüe: 
-- El cliente también informó que para la expansión a nuevos mercados:
   - Ampliar el soporte de idiomas en la plataforma. Actualmente está todo en español y estaría bueno poder extender para la traducción a varios otros idiomas.
 
 #### Monetización y Modelos de Negocio
-- Por otro lado también se informó que para expandir su negocio necesitaba generar más dinero y comentó sobre la posibilidad de:
   - Planes de Suscripción: Ofrecer características premium bajo diferentes planes de suscripción. Por ejemplo, que los gerenciadores con planes premium sean los que puedan acceder a las estadísticas. 
 
 #### Seguridad y Confianza
-- Por último el cliente estaba preocupado por la seguridad del sistema si todo esto se vaya a escalar y informo que quería incluir:
+- Por último, se podrían agregar funcionalidades de seguridad adicionales para proteger la información de los usuarios y garantizar la confianza en la plataforma:
   - Autenticación Multifactor: Asegurar las cuentas con autenticación adicional como OTP o biometría.
   - Historial de Acceso: Mostrar un registro de inicios de sesión y actividades importantes para los administradores, esto también aportaría buenas estadísticas para poder ver cómo se comportan los usuarios para luego poder mejorar los planes de monetización.
+
+## Video demo
+
+En el siguiente video, mostramos una demostración del prototipo MVP desarrollado, presentando las funcionalidades clave y el flujo principal de la aplicación:
+
+Link: [Video Demo](https://www.youtube.com/watch?v=bykKDfkQCX8)
