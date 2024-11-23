@@ -174,7 +174,7 @@ Clockify Gastón Minetti:
 ![Clockify Gaston Minetti](./Images/ClockifyGastonMinetti.png)
 
 Clockify Emily Symonds:
-
+![Clockify Emily Symonds](Images/ClockifyEmilySymonds.png)
 
 ### Seguimiento visual de la iteración con burndown y/o burnup charts.
 
